@@ -20,3 +20,7 @@ Output goes to `dist/`.
 - `src/assets/logo.svg` – logo mark
 
 Routing is handled by `react-router-dom`: `/` (home), `/login`, `/register`.
+
+## Repository workflow
+
+Development changes are made on feature branches and merged into `main` through pull requests. Generated build output and local log files are excluded from version control.
